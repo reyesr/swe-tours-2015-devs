@@ -1,0 +1,9 @@
+.blue {
+    color: #1b91ff;
+}
+
+li div.small-subitem {
+    display: block;
+    font-size: 0.75em;
+    word-wrap: normal;
+}
