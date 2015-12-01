@@ -2,6 +2,10 @@
     color: #1b91ff;
 }
 
+.violet {
+    color: #e58aed;
+}
+
 li div.small-subitem {
     display: block;
     font-size: 0.75em;
